@@ -47,3 +47,5 @@ List of Training Equipments :
     | rope           | skierg machine       | sled machine     | smith machine      |
     | stability ball | stationary bike      | stepmill machine | tire               |
     | trap bar       | upper body ergometer | weighted         | wheel roller       |
+
+https://drive.google.com/file/d/1bkdkY7fQ0JlJ_zJS0KLa3pq30KZNIMUc/view?usp=sharing
